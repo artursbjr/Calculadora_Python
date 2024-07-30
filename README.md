@@ -1,7 +1,9 @@
 # Calculadora_Python
  
 💡 Projeto: Calculadora Numérica
+
 💻 Linguagem utilizada: Python
+
 📚 Bibliotecas utilizadas: Flet + Decimal
 
 ⚙ Funcionalidades do projeto: 
